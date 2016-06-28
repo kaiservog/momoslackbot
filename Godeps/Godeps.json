@@ -1,0 +1,11 @@
+{
+	"ImportPath": "github.com/rapidloop/mybot",
+	"GoVersion": "go1.6",
+	"GodepVersion": "v74",
+	"Deps": [
+		{
+			"ImportPath": "golang.org/x/net/websocket",
+			"Rev": "04557861f124410b768b1ba5bb3a91b705afbfc6"
+		}
+	]
+}
