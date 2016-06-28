@@ -1,1 +1,1 @@
-'web: mybot' 
+web: mybot
